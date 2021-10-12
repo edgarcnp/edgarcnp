@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : edgarchristian2000@gmail.com
 
+PC Specs:
+![AMD](https://img.shields.io/badge/AMD-Ryzen_7_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 <!---
 edgarcnp/edgarcnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
