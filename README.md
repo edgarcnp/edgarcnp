@@ -1,4 +1,4 @@
-![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord)
+![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Python, Discord Bot and Web Application.
