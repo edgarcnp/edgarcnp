@@ -1,4 +1,4 @@
-[![My Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white/url)](https://www.discord.com/users/255686217302147072)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white/url)](https://www.discord.com/users/255686217302147072)
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Python, Discord Bot and Web Application.
