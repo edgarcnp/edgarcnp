@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white))
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Python, Discord Bot and Web Application.
