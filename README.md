@@ -1,4 +1,4 @@
-![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat) [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)(https://www.github.com/edgarcnp)]
+![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat) [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/edgarcnp)
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Python, Discord Bot and Web Application.
