@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Cyber Security, Python, Data Science, Discord Bot and Web Application.
-- 🌱 I’m currently learning Cisco Network Academy, Data Science, Advanced Python.
+- 🌱 I’m currently learning Cisco Network Academy, Data Science, Advanced Python, GoLang.
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : edgarchristian2000@gmail.com
 
