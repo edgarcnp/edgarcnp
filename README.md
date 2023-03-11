@@ -1,15 +1,10 @@
-# Hi, welcome to my profile!
+# Hi, welcome to my profile.
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Cyber Security, and Web Application.
 - 🌱 I’m currently learning Advanced Python, C++, and Rust.
 - 💞️ I’m looking to collaborate on *nothing*
-<!--- 📫 How to reach me : *you can't*--->
-
-PC Specs: 
-
-![AMD](https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- 📫 How to reach me : me@edgarcnp.dev
 
 ## Links
 [![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)](https://www.discord.com/users/255686217302147072)
