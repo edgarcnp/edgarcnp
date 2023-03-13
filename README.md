@@ -1,4 +1,8 @@
-# Hi, Welcome To My Profile
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+<h1 align="center">Welcome</h1>
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network Engineering, Cyber Security, and Web Application.
@@ -6,7 +10,20 @@
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : me@edgarcnp.dev
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,rust)](https://skillicons.dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,rust">
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=edgarcnp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB0000&stroke=B98CEB&currStreakNum=EB0000">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=edgarcnp&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcnp&hide_progress=true&theme=tokyonight&hide_border=true">
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=christian.edgar&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 
 ## Links
 [![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)](https://www.discord.com/users/255686217302147072)
