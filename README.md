@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : me@edgarcnp.dev
 
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,rust)](https://skillicons.dev)
+
 ## Links
 [![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)](https://www.discord.com/users/255686217302147072)
 [![Discord Server](https://dcbadge.vercel.app/api/server/dnjmapazEF?style=flat)](https://discord.gg/dnjmapazEF)
