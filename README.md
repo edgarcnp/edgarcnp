@@ -22,7 +22,7 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=christian.edgar&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 
 ## Links
-[![Discord](https://discord-md-badge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)](https://www.discord.com/users/255686217302147072)
+[![Discord](https://dcbadge.vercel.app/api/shield/255686217302147072?theme=discord&style=flat)](https://www.discord.com/users/255686217302147072)
 [![Discord Server](https://dcbadge.vercel.app/api/server/dnjmapazEF?style=flat)](https://discord.gg/dnjmapazEF)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/edgarcnp)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pecorino-Romano)
