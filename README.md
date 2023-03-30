@@ -23,7 +23,7 @@
 
 ## Links
 [![Discord](https://dcbadge.vercel.app/api/shield/255686217302147072?theme=discord-inverted&style=flat&logoColor=presence)](https://www.discord.com/users/255686217302147072)
-[![Discord Server](https://dcbadge.vercel.app/api/server/dnjmapazEF?style=flat)](https://discord.gg/dnjmapazEF)
+[![Discord Server](https://dcbadge.vercel.app/api/server/dnjmapazEF?theme=discord-inverted&style=flat)](https://discord.gg/dnjmapazEF)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/edgarcnp)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pecorino-Romano)
 [![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com/@edgarcnp)
