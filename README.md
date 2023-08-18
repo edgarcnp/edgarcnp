@@ -7,7 +7,7 @@
 - 📫 How to reach me : me@edgarcnp.dev
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,rust">
+<img src="https://skillicons.dev/icons?i=rust,cpp,py">
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=edgarcnp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB0000&stroke=B98CEB&currStreakNum=EB0000">
