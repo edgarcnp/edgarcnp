@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @edgarcnp
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Web Application.
-- 🌱 I’m currently learning Advanced Rust.
+- 🌱 I’m currently learning Unsafe Rust.
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : me@edgarcnp.dev
 
