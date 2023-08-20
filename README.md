@@ -1,8 +1,8 @@
 <h1 align="center">Welcome</h1>
 
-- 👋 Hi, I’m @edgarcnp
+- 👋 Hi, I’m Edgar Christian
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Web Application.
-- 🌱 I’m currently learning Unsafe Rust.
+- 🌱 I’m currently learning **Unsafe Rust**.
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : me@edgarcnp.dev
 
