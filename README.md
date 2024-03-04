@@ -6,8 +6,13 @@
 - 💞️ I’m looking to collaborate on *nothing*
 - 📫 How to reach me : me@edgarcnp.dev
 
+<h2 align="center">My Editor of Choice</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,py">
+<img src="https://skillicons.dev/icons?i=neovim">
+  
+<h2 align="center">Programming Languages</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,wasm,c,cpp,go,lua,py">
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=edgarcnp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB0000&stroke=B98CEB&currStreakNum=EB0000">
