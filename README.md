@@ -7,7 +7,7 @@
 
 <h2 align="center">My Editor of Choice</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=neovim">
+<img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg">
   
 <h2 align="center">Programming Languages</h2>
 <p align="center">
