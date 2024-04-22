@@ -8,7 +8,7 @@
 <h2 align="center">My Editor of Choice</h2>
 <p align="center">
   <a href="https://github.com/helix-editor/helix" target="_blank">
-    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg">
+    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="300" height="300">
   </a>
   
 <h2 align="center">Programming Languages</h2>
