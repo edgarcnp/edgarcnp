@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: columns
+          config_display: large
           config_octicon: yes
           config_timezone: Asia/Jakarta
           config_twemoji: yes
@@ -53,7 +53,6 @@ jobs:
           plugin_languages_ignored: html, css, tex, processing, jupyter notebook
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
