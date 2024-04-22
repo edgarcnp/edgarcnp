@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: large
+          config_display: columns
           config_octicon: yes
           config_timezone: Asia/Jakarta
           config_twemoji: yes
