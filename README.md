@@ -20,9 +20,9 @@
 </p>
 
 <h2 align="center">My GitHub Statistics</h2>
-<picture>
-<img src="https://raw.githubusercontent.com/edgarcnp/edgarcnp/main/github-metrics.svg" alt="Metrics" width="100%">
-</picture>
+<p align="center">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
 
 <h2 align="center">Currently Listening To</h2>
 <p align="center">
