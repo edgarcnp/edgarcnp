@@ -8,15 +8,18 @@
 <h2 align="center">My Editor of Choice</h2>
 <p align="center">
   <a href="https://github.com/helix-editor/helix" target="_blank">
-    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="200" height="200">
   </a>
+</p>
   
 <h2 align="center">Programming Languages</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=rust,wasm,c,cpp,go,lua,py">
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=edgarcnp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB0000&stroke=B98CEB&currStreakNum=EB0000">
+</p>
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,12 +29,15 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=edgarcnp&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcnp&hide_progress=true&theme=tokyonight&hide_border=true">
+</p>
 
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=christian.edgar&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+</p>
 
 ## Links
 [![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)
