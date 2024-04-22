@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Progressive Web Application.
 - 🌱 I’m currently learning **🦀 Unsafe Rust**.
-- 📫 How to reach me : me@edgarcnp.dev
+- 📫 How to reach me : edgarcnp@proton.me
 
 <h2 align="center">My Editor of Choice</h2>
 <p align="center">
