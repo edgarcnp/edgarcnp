@@ -1,6 +1,6 @@
 #
 <p align="center">
-<img src="/header.png">
+  <img src="/header.png">
 </p>
 
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Progressive Web Application.
@@ -16,17 +16,23 @@
   
 <h2 align="center">My Programming Languages</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,wasm,c,cpp,go,lua,py">
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=rust,wasm,c,cpp,go,lua,py">
+  </a>
 </p>
 
 <h2 align="center">My GitHub Statistics</h2>
 <p align="center">
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+  <a href=#>
+    <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  </a>
 </p>
 
 <h2 align="center">Currently Listening To</h2>
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=christian.edgar&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+  <a href=#>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=christian.edgar&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
 </p>
 
 ## Links
