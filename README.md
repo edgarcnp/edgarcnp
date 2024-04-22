@@ -1,6 +1,6 @@
 #
 <p align="center">
-<img src="https://raw.githubusercontent.com/edgarcnp/edgarcnp/main/header.png">
+<img src="/header.png">
 </p>
 
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Progressive Web Application.
