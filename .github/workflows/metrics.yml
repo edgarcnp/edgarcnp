@@ -1,3 +1,4 @@
+---
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
@@ -5,7 +6,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,8 +18,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -30,13 +30,18 @@ jobs:
           user: edgarcnp
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_display: columns
+          config_octicon: yes
           config_timezone: Asia/Jakarta
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
           plugin_followup: yes
           plugin_followup_archived: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -46,6 +51,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: html, css, tex, 
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
@@ -55,23 +61,11 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
+          plugin_lines_repositories_limit: 8
           plugin_lines_sections: base
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings:
-            url: "https://skyline.github.com/${login}/${year}",
-            ready: "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-            wait: 1,
-            hide: "button, footer, a"
-
-          plugin_skyline_year: current-year
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: My Sponsors!
           plugin_stock: yes
           plugin_stock_duration: 1y
           plugin_stock_interval: 1d
           plugin_stock_symbol: SCHD
+          plugin_traffic: yes
+          repositories_forks: yes
