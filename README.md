@@ -1,6 +1,7 @@
-<h1 align="center">Welcome</h1>
+<p align="center">
+<img src="https://raw.githubusercontent.com/edgarcnp/edgarcnp/main/header.png">
+</p>
 
-- 👋 Hi, I’m Edgar Christian
 - 👀 I’m interested in Network & Software Engineering, Cyber Security, and Progressive Web Application.
 - 🌱 I’m currently learning **🦀 Unsafe Rust**.
 - 📫 How to reach me : me@edgarcnp.dev
