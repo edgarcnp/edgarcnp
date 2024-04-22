@@ -8,9 +8,9 @@
 - 📫 How to reach me : edgarcnp@proton.me
 
 <h2 align="center">My Code Editor of Choice</h2>
-<p align="center" width="200" height="200">
+<p align="center">
   <a href="https://github.com/helix-editor/helix" target="_blank">
-    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="150" height="150">
   </a>
 </p>
   
