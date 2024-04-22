@@ -17,7 +17,7 @@
 
 <h2 align="center">My Code Editor of Choice</h2>
 <p align="center">
-  <a href="https://github.com/helix-editor/helix" target="_blank">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/helix-editor/helix">
     <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="200" height="200">
   </a>
 </p>
