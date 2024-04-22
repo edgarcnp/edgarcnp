@@ -9,9 +9,8 @@
 - 🌱 I’m currently learning **🦀 Unsafe Rust**.
 - 📫 How to reach me : edgarcnp@proton.me
 
-#
 <p align="center">
-  <a href=#my-github-statistics>
+  <a href=#>
     <img src="/github-metrics.svg" alt="Metrics" width="100%">
   </a>
 </p>
