@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edgarcnp&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="(https://raw.githubusercontent.com/edgarcnp/github-stats/master/generated/overview.svg#gh-dark-mode-only)">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcnp&hide_progress=true&theme=tokyonight&hide_border=true">
+<img src="https://raw.githubusercontent.com/edgarcnp/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
 <p align="center">
@@ -42,6 +42,7 @@
 ## Links
 [![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/edgarcnp)
+[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13663851)](https://stackoverflow.com/users/13663851/pecorinodev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Pecorino-Romano)
 [![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com/@edgarcnp)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/officialedgarc)
