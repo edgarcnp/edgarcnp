@@ -31,9 +31,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_display: regular
+          config_display: large
           config_octicon: yes
-          config_padding: 0
+          config_padding: 0, 8 + 11%
           config_timezone: Asia/Jakarta
           config_twemoji: yes
           plugin_achievements: yes
