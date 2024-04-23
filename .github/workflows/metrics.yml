@@ -33,6 +33,7 @@ jobs:
           base_indepth: yes
           config_display: columns
           config_octicon: yes
+          config_padding: 10
           config_timezone: Asia/Jakarta
           config_twemoji: yes
           plugin_achievements: yes
