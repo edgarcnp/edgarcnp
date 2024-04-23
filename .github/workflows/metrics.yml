@@ -34,7 +34,7 @@ jobs:
           config_display: regular
           config_octicon: yes
           config_padding: 0, 8 + 11%
-          config_timezone: Asia/Jakarta
+          config_timezone: UTC
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
