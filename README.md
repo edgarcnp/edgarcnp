@@ -15,13 +15,6 @@
   </a>
 </p>
 
-<h2 align="center">My Code Editor of Choice</h2>
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/helix-editor/helix">
-    <img src="https://raw.githubusercontent.com/helix-editor/helix/master/logo_dark.svg" alt="Helix Editor" width="200" height="200">
-  </a>
-</p>
-
 ## Links
 [![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)
 [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13663851)](https://stackoverflow.com/users/13663851/pecorinodev)
