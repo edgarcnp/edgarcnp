@@ -1,7 +1,7 @@
 #
 <p align="center">
   <a href=#>
-    <img src="/header.png">
+    <img src="/assets/header.png">
   </a>
 </p>
 
