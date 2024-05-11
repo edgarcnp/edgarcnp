@@ -9,6 +9,10 @@
 - 🌱 I’m currently learning **🦀 Unsafe Rust**.
 - 📫 How to reach me : edgarcnp@proton.me
 
+<div align="center">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/edgarcnp/edgarcnp/blob/main/assets/quotes.json" alt="Quote" width="894px">
+</div>
+
 <p align="center">
   <a href=#>
     <img src="/github-metrics.svg" alt="Metrics" width="894px">
