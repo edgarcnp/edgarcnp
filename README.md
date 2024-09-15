@@ -19,11 +19,9 @@
   </a>
 </p>
 
-## Links
+##
 [![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)
-[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13663851)](https://stackoverflow.com/users/13663851/pecorinodev)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://www.github.com/edgarcnp)
-[![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](https://replit.com/@edgarcnp)
+<!--[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13663851)](https://stackoverflow.com/users/13663851/pecorinodev)-->
 
 <!---
 edgarcnp/edgarcnp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
