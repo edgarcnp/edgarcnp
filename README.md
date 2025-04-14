@@ -5,13 +5,11 @@
   </a>
 </p>
 
-- 👀 I’m interested in Network & Software Engineering, Cyber Security, and Progressive Web Application.
-- 🌱 I’m currently learning **🦀 Unsafe Rust**.
-- 📫 How to reach me : edgarcnp@proton.me
-
+<!---
 <div align="center">
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/edgarcnp/edgarcnp/blob/main/assets/quotes.json" alt="Quote" width="894px">
 </div>
+--->
 
 <p align="center">
   <a href=#>
