@@ -1,4 +1,3 @@
-#
 <p align="center">
   <a href=#>
     <img src="/assets/header.png">
@@ -11,14 +10,23 @@
 </div>
 --->
 
-<p align="center">
+<!-- <p align="center">
   <a href=#>
     <img src="/github-metrics.svg" alt="Metrics" width="894px">
   </a>
-</p>
+</p> -->
 
-##
-[![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarcnp&theme=transparent" alt="Summary">
+</div>
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarcnp&theme=transparent" alt="Language">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgarcnp&theme=transparent" alt="Stats">
+</div>
+
+<!--##-->
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=edgarcnp&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/edgarcnp)-->
 <!--[![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/13663851)](https://stackoverflow.com/users/13663851/pecorinodev)-->
 
 <!---
