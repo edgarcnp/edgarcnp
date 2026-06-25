@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edgarcnp/edgarcnp/refs/heads/snek-output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edgarcnp/edgarcnp/refs/heads/snek-output/github-contribution-grid-snake.svg" />
+  <img alt="github-snek" src="github-snek.svg" />
+</picture>
+
 <!---
 <div align="center">
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&quotesUrl=https://github.com/edgarcnp/edgarcnp/blob/main/assets/quotes.json" alt="Quote" width="894px">
