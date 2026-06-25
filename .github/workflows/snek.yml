@@ -34,7 +34,8 @@ jobs:
       - name: push snek to the snek-output branch
         uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
         with:
+          disable_nojekyll: true
+          force_orphan: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: snek-output
           publish_dir: dist
-          force_orphan: true
